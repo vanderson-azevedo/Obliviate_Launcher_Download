@@ -4,8 +4,8 @@
 
 **A porta de entrada para o Obliviate, servidor de roleplay de Hogwarts Legacy.**
 
-[![Baixar](https://img.shields.io/badge/⬇_Baixar_o_launcher-ObliviateLauncher.zip-c9a35a?style=for-the-badge)](https://github.com/USUARIO/obliviate-launcher-download/releases/latest/download/ObliviateLauncher.zip)
-[![Discord](https://img.shields.io/badge/Discord-Entrar_no_servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CONVITE)
+[![Baixar](https://img.shields.io/badge/⬇_Baixar_o_launcher-ObliviateLauncher.zip-c9a35a?style=for-the-badge)](https://github.com/vanderson-azevedo/Obliviate_Launcher_Download/releases/latest/download/ObliviateLauncher.zip)
+[![Discord](https://img.shields.io/badge/Discord-Entrar_no_servidor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m8dZUtAcSS)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 Baixe sempre a versão mais recente:
 
-### 👉 [ObliviateLauncher.zip](https://github.com/USUARIO/obliviate-launcher-download/releases/latest/download/ObliviateLauncher.zip)
+### 👉 [ObliviateLauncher.zip](https://github.com/vanderson-azevedo/Obliviate_Launcher_Download/releases/latest/download/ObliviateLauncher.zip)
 
-As versões anteriores e as notas de cada atualização estão em [Releases](https://github.com/USUARIO/obliviate-launcher-download/releases).
+As versões anteriores e as notas de cada atualização estão em [Releases](https://github.com/vanderson-azevedo/Obliviate_Launcher_Download/releases).
 
-🛡️ **Verificação de vírus da versão atual:** [VirusTotal](LINK_DO_VIRUSTOTAL)
+🛡️ **Verificação de vírus da versão atual:** [VirusTotal](https://www.virustotal.com/gui/file/af9c2aad0d80c1014926920527dd94f30407c70fb073e6768726d7662f7a4f27?nocache=1)
 
 ---
 
@@ -28,7 +28,7 @@ As versões anteriores e as notas de cada atualização estão em [Releases](htt
 - **Hogwarts Legacy** instalado e original (Steam ou Epic Games).
 - **Windows 10 ou 11** (64 bits).
 - Uma conta do **Discord**, que precisa estar no nosso servidor.
-- **Allowlist aprovada.** Se ainda não fez a entrevista, veja o canal de allowlist no [Discord](https://discord.gg/CONVITE).
+- **Allowlist aprovada.** Se ainda não fez a entrevista, veja o canal de allowlist no [Discord](https://discord.gg/m8dZUtAcSS).
 - Cerca de **1 GB livre** no disco para o cliente do servidor.
 
 ---
@@ -54,7 +54,7 @@ Para continuar, clique em **Mais informações → Executar assim mesmo**.
 
 Se o seu antivírus apagar o arquivo, adicione a pasta do launcher às **exceções** dele.
 
-Na dúvida, confira a [verificação de vírus](LINK_DO_VIRUSTOTAL) da versão atual. Baixe o launcher **somente por este repositório ou pelo nosso Discord**.
+Na dúvida, confira a [verificação de vírus](https://www.virustotal.com/gui/file/af9c2aad0d80c1014926920527dd94f30407c70fb073e6768726d7662f7a4f27?nocache=1) da versão atual. Baixe o launcher **somente por este repositório ou pelo nosso Discord**.
 
 ---
 
